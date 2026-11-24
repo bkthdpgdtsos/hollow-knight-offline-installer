@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 version 21H1 (build 19043) or newer | Big Sur 11 or newer |
+| **Processor** | Min: Intel Core i3-3240, AMD FX-4300 / Rec: Intel Core i5-3470 | Intel Core i3 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB) / Rec: GeForce GTX 1050 (2GB), Radeon R9 380 (2GB) | Metal capable Intel and AMD GPUs |
+| **DirectX** | Version 10 | Version 10 |
+| **Storage** | 9 GB available space | 9 GB available space |
 
 ---
 
